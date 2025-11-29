@@ -1,5 +1,3 @@
-<img width="591" height="460" alt="image" src="https://github.com/user-attachments/assets/2cd3b181-76d9-49b9-87cd-f57a82b99f2c" /># Processador RISC-V em Logisim Evolution
-
 Este projeto implementa um processador simples baseado na arquitetura RISC-V RV32I no Logisim Evolution. O objetivo é demonstrar o funcionamento interno de um processador, incluindo datapath, unidade de controle, banco de registradores, memória e o ciclo completo de busca, decodificação e execução.
 
 ---
