@@ -56,8 +56,7 @@ O processador segue um modelo de ciclo único e conta com os seguintes módulos:
    +--------------------------+     +-------------------------------+
                |                                         |
                +-----------------------------------------+
-\
----
+
 
 ## Subcircuitos
 
