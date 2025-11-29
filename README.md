@@ -34,13 +34,11 @@ O processador segue um modelo de ciclo único e conta com os seguintes módulos:
         |    PC     |
         +-----+-----+
               |
-              v
          +---------+
          |   ROM   |
          +--+---+--+
             |   |
-            |   +-------------------------+
-            v                             |
+            |   +-------------------------+                          
     +---------------+                     |
     |  Controle     |                     |
     +------+-+------+                     |
@@ -49,7 +47,6 @@ O processador segue um modelo de ciclo único e conta com os seguintes módulos:
      |  Extensor   |                      |
      +------+------+                      |
             |                             |
-            v                             |
  +-----------------------+     +-----------+------+
  | Banco de Registradores|<--->|     ULA         |
  +-----------------------+     +------------------+
