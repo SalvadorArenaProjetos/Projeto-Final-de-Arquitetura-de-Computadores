@@ -70,12 +70,8 @@ O processador segue um modelo de ciclo único e conta com os seguintes módulos:
 
 ### Fluxo
 
-+-------------+ +------------------+ +------------------+
-| Busca | ---> | Decodificação | ---> | Execução |
-+-------------+ +------------------+ +------------------+
-^ | |
-| v v
-+----------- Atualização do PC <--------------+
+<img width="472" height="145" alt="image" src="https://github.com/user-attachments/assets/b2f95426-49d2-45db-9ea6-91e93a7c14f2" />
+
 
 
 ### Etapas
